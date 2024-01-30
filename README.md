@@ -1,6 +1,5 @@
 <h1 align="center"> MyLinks </h1>
 
-
 </p>
 
 <p align="center">
@@ -10,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Links" src=".github/preview.png" width="100%">
+  <img alt="Projeto Links" src=".github/MyLinks.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,11 +27,12 @@ MyLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BA1SIU8vcx8iGngQLGsRzJ/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=XRzHWE5CTDzxkMpJ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/BA1SIU8vcx8iGngQLGsRzJ/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=XRzHWE5CTDzxkMpJ-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## Licença
 
-##  Licença
 Esse projeto está sob a licença MIT.
 
 ---
+
 Feito por Marcio Aquino
